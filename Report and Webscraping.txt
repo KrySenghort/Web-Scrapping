@@ -1,0 +1,26 @@
+1.Introduction: Start with an introduction to web scraping, its importance in data science, and the purpose of the manuscript.​
+(Tyda)
+
+2.Background: Provide some background information on the topic of web scraping, including its history and evolution, types of web scraping, and its relevance to data science.​
+(Senghort)
+
+3.Methodology: Describe the methodology used to collect the data using web scraping. Include the tools and programming languages used and how they were employed to extract the data. Be sure to explain the process in detail, so that the reader can understand how the data was collected.​
+(Vatanak)(Webscraping on Trip Adviser)(Deadline Sunday, meeting at 9:00pm)
+
+4.Data Collection: Provide a detailed description of the data collected through web scraping. Include the sources of data, the type of data collected, the variables, and any limitations of the data.​
+(Ratha)(Deadline, 26)
+
+5.Data Preprocessing: Explain the preprocessing steps that were taken to clean and transform the data before analyzing it. This may include data cleaning, data transformation, data normalization, and data reduction.​
+(Sreypich)()
++ Problem1: Special character, resolve: by using replace method in excel
++ Problem2: Code error, got duplicate value(Use for loop in code), Resolve: by use remove duplicate value in excel
++ Problem3: For column rating and number of reviwer we replace N/A by 0
+
+6.Data Analysis: Discuss the analysis that was performed on the data, including the techniques and tools used, as well as any findings or insights gained from the analysis.​
+(Vira)
+
+7. Results: Present the results of the analysis in a clear and concise manner. Use tables, graphs, and visualizations to illustrate the findings.​
+
+8. Conclusion: Summarize the main findings and conclusions of the study, and discuss the implications of the results for future research.​
+
+9. References: List all the sources cited in the manuscript, following a citation format that you prefer.

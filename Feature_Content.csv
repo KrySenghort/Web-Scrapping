@@ -1,0 +1,124 @@
+,0
+Unnamed: 0.1,[   0    1    2 ... 4782 4783 4784]
+Unnamed: 0,[0.000e+00 1.000e+00 2.000e+00 ... 4.782e+03 4.783e+03 4.784e+03]
+Index,[1.000e+00 2.000e+00 3.000e+00 ... 4.783e+03 4.784e+03 4.785e+03]
+Tour_Name,"['Phare: The Cambodian Circus Show in Siem Reap'
+ 'Khmer Gourmet Cooking Class'
+ 'Koh Ker & Beng Mealea Full-Day Join-in Tour' ...
+ 'Phnom Kulen Tour,Waterfalls,1000 Linga River,Reclining Buddha and Tonle Sap Lake'
+ 'Special Angkor Sunrise & Sunset Tour'
+ 'Amazing Koh Ker And Beng Mealea Tour']"
+Tour_Type,"['Comedy Shows' 'Cooking Classes' 'Full-day Tours' 'Adventure Tours'
+ 'Bus Tours' 'Walking Tours' 'Food Tours' 'City Tours'
+ 'Private and Luxury' 'Ports of Call Tours' 'Sunset Cruises'
+ 'Half-day Tours' 'Night Tours' 'National Parks'
+ 'Private Sightseeing Tours' 'Tuk Tuk Tours' 'Multi-day Tours'
+ 'Bike Tours' 'Cocktail Tastings' 'Day Cruises' 'Pottery Classes'
+ 'Car Tours' 'Classic Car Tours' 'Art Classes' 'Balloon Tours'
+ 'Health Tour' 'Photography Tours' 'Nightlife' 'Airboat Tours'
+ 'Train Tour' 'Theater Shows' 'Luxury Car Tours' 'Attractions & Museums'
+ 'Cruise Tours' 'Vespa, Scooter & Moped Tours' 'Sightseeing Tours'
+ 'Rentals' 'Religious Sites' 'Dinner and Show Tickets'
+ 'Monuments and Memorials' 'Water Tours' 'Mixology Classes' 'Trikke Tours'
+ 'Self-guided Tours' 'Overnight Tours' 'Circuit Tours' 'Painting Classes'
+ 'Aquariums' 'Lunch Cruises' 'Skip the line Tickets' 'Motorcycle Tours'
+ 'Family-friendly Shows' 'Boxing Classes' 'Ancient Ruins' 'Nature Parks'
+ 'Wine Tours' 'Shore Excursions' 'Japanese Lessons' 'Mountain Bike Tours'
+ 'Fun & Games' 'Sightseeing Passes' 'Private Drivers'
+ 'Airport & Hotel Transfers' 'Bus Services' 'Dance Lessons'
+ 'Dining Experiences' 'Port Transfers' 'Health Tours' 'Hiking Tours'
+ 'Bike Rentals' 'Hot Air Balloon Rides' 'Wine Tastings' 'Cultural Tours'
+ 'Transportation Services' ""Valentine's Day Events"" 'Shopping Tours'
+ 'Museum Tickets & Passes' 'National Holidays' 'Honeymoon Packages'
+ 'Kayaking Tours' 'Christmas' 'Sports Lessons' 'Golf Tours & Tee Times'
+ 'Craft Classes' 'Language Classes' 'Culinary Tour' 'Airport Lounges']"
+Number_of_Reviewer,"[9.920e+02 5.500e+01 2.880e+02 1.800e+01 3.080e+02 7.400e+01 2.050e+02
+ 3.300e+01 2.400e+01 3.100e+01 3.200e+01 9.200e+01 5.000e+00 3.370e+02
+ 7.000e+00 1.000e+01 3.880e+02 1.630e+02 2.900e+01 1.120e+02 9.500e+01
+ 7.300e+01 1.100e+01 2.500e+01 9.150e+02 1.000e+00 2.890e+02 3.700e+01
+ 2.100e+01 8.000e+00 3.050e+02 2.600e+01 1.700e+01 6.000e+00 9.380e+01
+ 8.300e+01 5.100e+01 6.800e+01 4.300e+01 4.700e+01 3.600e+01 1.500e+01
+ 2.460e+01 1.330e+02 9.660e+02 2.800e+01 3.400e+01 4.000e+00 3.000e+00
+ 2.000e+01 9.000e+00 1.070e+02 1.260e+02 1.600e+01 4.200e+01 6.600e+01
+ 4.100e+01 1.200e+01 2.000e+00 5.740e+02 5.700e+01 3.360e+02 3.000e+01
+ 4.000e+01 1.900e+01 3.500e+01 8.500e+01 1.300e+02 1.310e+02 1.130e+02
+ 2.700e+01 1.170e+02 7.000e+01 3.900e+01 1.300e+01 1.740e+02 4.600e+01
+ 2.300e+01 1.400e+01 1.670e+02 5.400e+01 2.800e+00 3.400e+00 3.800e+00
+ 4.600e+00 2.600e+00 9.400e+00 2.400e+00 3.600e+00 3.200e+00 2.220e+01
+ 2.200e+00 9.800e+00 5.340e+01 1.400e+00 2.520e+01 3.560e+01 3.460e+01
+ 1.860e+01 4.220e+01 4.920e+01 5.180e+01 5.820e+01 3.540e+01 3.180e+01
+ 2.480e+01 6.160e+01 2.960e+01 5.520e+01 2.260e+01 3.120e+01 3.880e+01
+ 4.880e+01 5.600e+01 5.300e+01 5.000e+01 6.200e+01 2.200e+01 1.200e+00
+ 1.600e+00 1.800e+00 1.640e+01 8.800e+00 1.420e+01 6.200e+00 4.200e+00
+ 4.400e+00 7.400e+00 2.060e+02 6.400e+01 1.930e+02 1.110e+02 1.090e+02
+ 8.000e+01 1.790e+02 3.800e+01 3.250e+02 2.540e+02 1.140e+02 1.620e+02
+ 2.360e+01 2.860e+02 6.460e+02 1.289e+03 8.700e+01 1.150e+02 4.820e+01
+ 1.950e+02 9.800e+01 3.780e+01 7.900e+01 7.860e+01 3.900e+02 3.140e+02
+ 1.260e+01 3.040e+02 6.900e+01 2.440e+01 4.900e+01 7.600e+00 2.120e+02
+ 1.060e+01 4.400e+01 2.820e+01 1.840e+01 1.410e+02 1.050e+02 3.840e+01
+ 8.770e+02 1.900e+02 8.200e+01 7.680e+02 9.960e+02 1.520e+01 1.480e+01
+ 1.320e+01 5.800e+00 6.560e+01 1.120e+01 1.360e+01 1.760e+01 1.750e+02
+ 1.760e+02 7.100e+01 7.600e+01 3.950e+02 1.380e+01 2.180e+01 1.160e+01
+ 1.940e+01 3.830e+02 1.180e+01 1.540e+01 1.820e+01 7.800e+00 2.670e+02
+ 2.020e+01 9.400e+01 4.340e+01 3.320e+01 1.350e+02 5.020e+01 1.140e+01
+ 7.200e+00 2.880e+01 1.190e+02 2.720e+01 2.660e+01 1.020e+01 9.600e+00
+ 4.800e+00 2.860e+01 6.800e+00 5.400e+00 6.400e+00 5.600e+00 1.080e+01
+ 1.780e+01 2.320e+01 7.500e+01 2.240e+01 2.280e+01 8.600e+00 6.600e+00
+ 1.240e+01 8.400e+00 9.200e+00 8.200e+00 2.380e+01 2.420e+01 2.340e+01
+ 2.560e+01 2.920e+01 2.640e+01 1.220e+01 1.340e+01 5.200e+00 6.100e+01
+ 1.660e+01 1.460e+01 2.120e+01 1.040e+01 2.940e+01 1.390e+02 1.680e+01]"
+Rating,"[5.  4.5 4.9 4.7 4.  3.5 4.3 4.2 2.6 3.8 2.5 3.  1.  3.4 3.2 3.9 3.7 3.3
+ 4.1 3.6 4.8 2.8 4.4 2.  3.1 4.6 2.7 2.9 2.3 1.5 2.1 1.2]"
+Duration,"[1.000e+00 3.000e+00 1.000e+01 5.000e+00 4.800e+01 6.000e+00 7.000e+00
+ 4.000e+00 2.000e+00 8.000e+00 9.000e+00 7.200e+01 1.100e+01 1.200e+01
+ 2.400e+01 1.300e+01 6.400e+01 6.600e+01 6.500e+01 1.670e+02 1.020e+02
+ 9.600e+01 1.500e+01 1.440e+02 1.200e+02 1.680e+02 1.960e+02 1.700e+01
+ 3.600e+02 2.160e+02 2.640e+02 1.820e+02 1.120e+02 7.200e+02 1.720e+02
+ 1.800e+01 1.400e+01 1.480e+02 1.130e+02 1.144e+03 2.400e+02 1.182e+03]"
+Price,[ 18.     21.5    50.    ... 202.738 208.046  92.232]
+Highlight,"[""Siem Reap's most original, authentic live performance., Entry/Admission - Phare, The Cambodian Circus""
+ 'In-person guide'
+ 'Cold towels & Bottled water, Professional English-speaking guide, Hotel pickup (7:40am to 8:10am) & Drop off (6pm), Transport by luxury air-conditioned minivan'
+ ...
+ 'Accommodation 1 nights stay at Sambor Village Hotel in Kompong Thom, Private transportation by modern air-conditioned vehicle – Toyota, Honda or Ford, Professional Licensed English Speaking guide, Sightseeing as specified in the itinerary including entrance fees, Meals as specified in itinerary (1 breakfast & 1 lunch), 02 bottles of mineral water per person while sightseeing and transfers, VAT and all taxes and service charge'
+ 'Dinner, Air-conditioned vehicle, Expert Tour Guide, Boat trip to floating village on Tonle Sap Lake, Mineral water and cold tissues on tour'
+ 'Experienced English speaking tour guide with license, Free cool water and cool towel during tour']"
+Location,"['Asia, Cambodia, Siem Reap Province, Siem Reap, Things to Do in Siem Reap, Siem Reap Tours, Tours and Tickets'
+ 'Asia, Cambodia, Siem Reap Province, Siem Reap, Svay Dangkum, Things to Do in Svay Dangkum, Svay Dangkum Tours, Tours and Tickets'
+ 'Asia, Cambodia, Kampot Province, Kampot, Things to Do in Kampot, Kampot Tours, Tours and Tickets'
+ 'Asia, Cambodia, Battambang Province, Battambang, Things to Do in Battambang, Battambang Tours, Tours and Tickets'
+ 'Asia, Cambodia, Phnom Penh, Things to Do in Phnom Penh, Phnom Penh Tours, Tours and Tickets'
+ 'Asia, Cambodia, Kampot Province, Changhaon, Things to Do in Changhaon, Changhaon Tours, Tours and Tickets'
+ 'Asia, Thailand, Bangkok, Things to Do in Bangkok, Bangkok Tours, Tours and Tickets'
+ 'Asia, Cambodia, Sihanoukville Province, Sihanoukville, Things to Do in Sihanoukville, Sihanoukville Tours, Tours and Tickets'
+ 'Asia, Cambodia, Siem Reap Province, Things to Do in Siem Reap Province, Siem Reap Province Tours'
+ 'Asia, Vietnam, Ho Chi Minh City, Things to Do in Ho Chi Minh City, Ho Chi Minh City Tours, Tours and Tickets'
+ 'Asia, Cambodia, Sihanoukville Province, Sihanoukville, Koh Rong Sanloem, Things to Do in Koh Rong Sanloem, Koh Rong Sanloem Tours, Tours and Tickets'
+ 'Asia, Thailand, Chonburi Province, Pattaya, Things to Do in Pattaya, Pattaya Tours, Tours and Tickets'
+ 'Asia, Cambodia, Things to Do in Cambodia, Cambodia Tours'
+ 'Asia, Cambodia, Preah Vihear Province, Things to Do in Preah Vihear Province, Preah Vihear Province Tours'
+ 'Asia, Cambodia, Kep Province, Kep, Things to Do in Kep, Kep Tours, Tours and Tickets'
+ 'Asia, Cambodia, Sihanoukville Province, Ream, Things to Do in Ream, Ream Tours, Tours and Tickets'
+ 'Asia, Cambodia, Mondulkiri Province, Sen Monorom, Things to Do in Sen Monorom, Sen Monorom Tours, Tours and Tickets'
+ 'Asia, Cambodia, Svay Rieng Province, Bavet, Things to Do in Bavet, Bavet Tours, Tours and Tickets'
+ 'Asia, Cambodia, Banteay Meanchey Province, Poipet, Things to Do in Poipet, Poipet Tours, Tours and Tickets'
+ 'Asia, Cambodia, Kampong Thom Province, Kampong Thom, Things to Do in Kampong Thom, Kampong Thom Tours, Tours and Tickets'
+ 'Asia, Cambodia, Kratie Province, Kratie, Things to Do in Kratie Kratie  Tours, Tours and Tickets'
+ 'Asia, Cambodia, Koh Kong Province, Koh Rong, Things to Do in Koh Rong, Koh Rong Tours, Tours and Tickets'
+ 'Asia, Cambodia, Banteay Meanchey Province, Roluos, Things to Do in Roluos, Roluos Tours, Tours and Tickets'
+ 'Asia, Cambodia, Ratanakiri Province, Banlung, Things to Do in Banlung, Banlung Tours, Tours and Tickets'
+ 'Asia, Cambodia, Kampong Cham Province, Kampong Cham, Things to Do in Kampong Cham, Kampong Cham Tours, Tours and Tickets'
+ 'Siem Reap, Cambodia' 'Phnom Penh, Cambodia' 'Krong Siem Reap, Cambodia'
+ 'Svay Dangkum, Cambodia' 'Battambang, Cambodia'
+ 'Siem Reap Province, Cambodia' 'Preah Sihanouk, Cambodia'
+ 'Krong Kampot, Cambodia' 'Kampot, Cambodia' 'Sihanoukville, Cambodia'
+ 'Krong Battambang, Cambodia' 'Penh, Cambodia' 'Tuek Chhou, Cambodia'
+ 'រាជធានី\u200bភ្នំពេញ, Cambodia' 'Sen Monorom, Cambodia' 'Kep, Cambodia'
+ 'Paoy Smach, Cambodia' 'Banlung, Cambodia' 'Koh Kong Province, Cambodia'
+ 'Preah Vihear Province, Cambodia' 'Kampong Cham, Cambodia'
+ 'Krong Poi Pet, Cambodia' 'Province, Cambodia' 'Krong Kracheh, Cambodia'
+ 'Cambodia, Cambodia' 'Siem Reap, Cambodia ' 'Bến Cầu District, Vietnam'
+ 'Krong Krong, Cambodia' 'Kâmpóng Saôm, Cambodia' 'Kratie, Cambodia'
+ 'ភ្នំពេញ, Cambodia' 'Binh Duong, Vietnam' 'Krong Stueng Saen, Cambodia'
+ 'Svay Leu, Cambodia' 'Krong Poi Pet, Thailand' 'Poipet, Cambodia'
+ 'Banteay Srei, Cambodia']"
